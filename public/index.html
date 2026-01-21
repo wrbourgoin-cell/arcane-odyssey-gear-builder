@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arcane Odyssey Armor Builder</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Configuration Panel -->
+        <div class="panel">
+            <h2>Configuration</h2>
+            
+            <div class="level-input">
+                <label for="playerLevel">Player Level:</label>
+                <input type="number" id="playerLevel" min="1" max="175" step="1" value="175">
+            </div>
+            
+            <div class="stat-build-input">
+                <label>Stat Build:</label>
+                
+                <div class="build-info">
+                    <div class="build-name" id="buildName">Savant</div>
+                    <div class="points-info">
+                        <span>Maximum Points: <span id="maxPoints">350</span></span>
+                        <span>Remaining Points: <span id="remainingPoints">350</span></span>
+                    </div>
+                </div>
+                
+                <div class="stat-input-group">
+                    <label for="spiritStat">Spirit:</label>
+                    <div class="stat-controls">
+                        <input type="number" id="spiritStat" class="stat-number" min="0" max="350" value="0" data-stat="spirit">
+                        <input type="range" id="spiritRange" class="stat-range" min="0" max="350" value="0" data-stat="spirit">
+                    </div>
+                </div>
+                
+                <div class="stat-input-group">
+                    <label for="magicStat">Magic:</label>
+                    <div class="stat-controls">
+                        <input type="number" id="magicStat" class="stat-number" min="0" max="350" value="0" data-stat="magic">
+                        <input type="range" id="magicRange" class="stat-range" min="0" max="350" value="0" data-stat="magic">
+                    </div>
+                </div>
+                
+                <div class="stat-input-group">
+                    <label for="strengthStat">Strength:</label>
+                    <div class="stat-controls">
+                        <input type="number" id="strengthStat" class="stat-number" min="0" max="350" value="0" data-stat="strength">
+                        <input type="range" id="strengthRange" class="stat-range" min="0" max="350" value="0" data-stat="strength">
+                    </div>
+                </div>
+                
+                <div class="stat-input-group">
+                    <label for="weaponsStat">Weapons:</label>
+                    <div class="stat-controls">
+                        <input type="number" id="weaponsStat" class="stat-number" min="0" max="350" value="0" data-stat="weapons">
+                        <input type="range" id="weaponsRange" class="stat-range" min="0" max="350" value="0" data-stat="weapons">
+                    </div>
+                </div>
+            </div>
+            
+            <div class="tools-input">
+                <label>Tools:</label>
+                <div class="tools-slots" id="toolsSlots"></div>
+            </div>
+        </div>
+
+        <!-- Equipment Slots Panel -->
+        <div class="panel">
+            <h2>Equipment Slots</h2>
+            
+            <div class="slots-container">
+                <div class="slot" data-slot-type="Chestpiece" data-slot-id="0">
+                    <div class="slot-header">
+                        <div class="slot-label">Chestpiece</div>
+                        <div class="slot-stats-preview" data-slot-id="0"></div>
+                    </div>
+                    <div class="slot-content empty">Click to select</div>
+                </div>
+                
+                <div class="slot" data-slot-type="Leggings" data-slot-id="1">
+                    <div class="slot-header">
+                        <div class="slot-label">Leggings</div>
+                        <div class="slot-stats-preview" data-slot-id="1"></div>
+                    </div>
+                    <div class="slot-content empty">Click to select</div>
+                </div>
+                
+                <div class="slot" data-slot-type="Accessory,Helmet,Amulet" data-slot-id="2">
+                    <div class="slot-header">
+                        <div class="slot-label">Accessory Slot 1</div>
+                        <div class="slot-stats-preview" data-slot-id="2"></div>
+                    </div>
+                    <div class="slot-content empty">Click to select</div>
+                </div>
+                
+                <div class="slot" data-slot-type="Accessory,Helmet,Amulet" data-slot-id="3">
+                    <div class="slot-header">
+                        <div class="slot-label">Accessory Slot 2</div>
+                        <div class="slot-stats-preview" data-slot-id="3"></div>
+                    </div>
+                    <div class="slot-content empty">Click to select</div>
+                </div>
+                
+                <div class="slot" data-slot-type="Accessory,Helmet,Amulet" data-slot-id="4">
+                    <div class="slot-header">
+                        <div class="slot-label">Accessory Slot 3</div>
+                        <div class="slot-stats-preview" data-slot-id="4"></div>
+                    </div>
+                    <div class="slot-content empty">Click to select</div>
+                </div>
+            </div>
+            
+            <div class="info-text">
+                Spirit armors scale with the Spirit stat.
+                Magic armors have more powerful variants if you have a Magic tool equipped.
+            </div>
+        </div>
+
+        <!-- Total Stats Panel -->
+        <div class="panel">
+            <h2>Total Stats</h2>
+            <div class="stats-display" id="statsDisplay"></div>
+            <div class="info-text">
+                Regeneration and Pierce stat percentages may be inaccurate.
+            </div>
+        </div>
+    </div>
+
+    <!-- Item Selection Overlay -->
+    <div class="overlay" id="overlay">
+        <div class="overlay-content">
+            <div class="overlay-header">
+                <h2 id="overlayTitle">Select Item</h2>
+                <button class="close-btn" id="closeOverlay">&times;</button>
+            </div>
+            <input type="text" class="picker-search" placeholder="Search items...">
+            <div class="items-grid" id="itemsGrid"></div>
+        </div>
+    </div>
+
+    <!-- Detail Configuration Modal -->
+    <div class="detail-modal" id="detailModal">
+        <div class="detail-content">
+            <div class="detail-header">
+                <h3 id="detailTitle">Configure Item</h3>
+                <button class="close-btn" id="closeDetail">&times;</button>
+            </div>
+            <div class="detail-body" id="detailBody"></div>
+            <div class="detail-footer">
+                <button class="confirm-btn" id="confirmDetail">Confirm Selection</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/gear-builder.js"></script>
+</body>
+</html>
