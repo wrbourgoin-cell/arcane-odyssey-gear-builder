@@ -1,0 +1,5437 @@
+[
+    {
+        "jewels": 2,
+        "level": 150,
+        "name": "Omen Armor",
+        "rarity": "Mystic",
+        "stats": {
+            "power": -28,
+            "defense": 678
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 150,
+        "name": "Omen Cloak",
+        "rarity": "Mystic",
+        "stats": {
+            "power": -21,
+            "defense": 508
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 150,
+        "name": "Omen Leggings",
+        "rarity": "Mystic",
+        "stats": {
+            "power": -21,
+            "defense": 508
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Rear_Admiral_Amelias_Tarnished_Cloak.webp",
+        "jewels": 2,
+        "level": 170,
+        "name": "Rear Admiral Amelia's Tarnished Cloak",
+        "rarity": "Mystic",
+        "stats": {
+            "power": 17,
+            "defense": 137,
+            "haste": 25
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Sunken_Iron_Armor.webp",
+        "jewels": 2,
+        "level": 170,
+        "name": "Sunken Iron Armor",
+        "rarity": "Mystic",
+        "stats": {
+            "defense": 330,
+            "size": 38
+        },
+        "sunken": true,
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Sunken_Iron_Boots.webp",
+        "jewels": 2,
+        "level": 170,
+        "name": "Sunken Iron Boots",
+        "rarity": "Mystic",
+        "stats": {
+            "defense": 247,
+            "size": 28
+        },
+        "sunken": true,
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Sunken_Iron_Helmet.webp",
+        "jewels": 2,
+        "level": 170,
+        "name": "Sunken Iron Helmet",
+        "rarity": "Mystic",
+        "stats": {
+            "defense": 247,
+            "size": 28
+        },
+        "sunken": true,
+        "type": "Helmet"
+    },
+    {
+        "image": "../assets/Sunken_Warrior_Armor.webp",
+        "jewels": 2,
+        "level": 170,
+        "name": "Sunken Warrior Armor",
+        "rarity": "Mystic",
+        "stats": {
+            "defense": 330,
+            "dexterity": 38
+        },
+        "sunken": true,
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Sunken_Warrior_Helmet.webp",
+        "jewels": 2,
+        "level": 170,
+        "name": "Sunken Warrior Helmet",
+        "rarity": "Mystic",
+        "stats": {
+            "defense": 247,
+            "dexterity": 28
+        },
+        "sunken": true,
+        "type": "Helmet"
+    },
+    {
+        "image": "../assets/Sunken_Warrior_Leggings.webp",
+        "jewels": 2,
+        "level": 170,
+        "name": "Sunken Warrior Leggings",
+        "rarity": "Mystic",
+        "stats": {
+            "defense": 247,
+            "dexterity": 28
+        },
+        "sunken": true,
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Apex Armor",
+        "rarity": "Rare",
+        "stats": {
+            "power": 20,
+            "defense": 206
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Apex Cloak",
+        "rarity": "Rare",
+        "stats": {
+            "power": 15,
+            "defense": 154
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Apex Leggings",
+        "rarity": "Rare",
+        "stats": {
+            "power": 15,
+            "defense": 154
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Architect_Kallistes_Cape.webp",
+        "jewels": 2,
+        "level": 170,
+        "name": "Architect Kalliste's Cape",
+        "rarity": "Rare",
+        "stats": {
+            "power": 25,
+            "pierce": 28
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Archon_Quartz_Amulet.webp",
+        "jewels": 0,
+        "level": 160,
+        "max_level": 160,
+        "name": "Archon Quartz Amulet",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 270,
+            "dexterity": 36
+        },
+        "type": "Amulet"
+    },
+    {
+        "jewels": 2,
+        "level": 160,
+        "name": "Assassin Hunter Armor",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 259
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 160,
+        "name": "Assassin Hunter Boots",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 194
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Assassin Hunter Cloak",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 137
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Blessed Knight Armor",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 259,
+            "resistance": 32
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Blessed Knight Cloak",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 206,
+            "resistance": 25
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Blessed Knight Greathelm",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 206,
+            "resistance": 25
+        },
+        "type": "Helmet"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Blessed Knight Leggings",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 206,
+            "resistance": 25
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Broken Prince Cape",
+        "rarity": "Rare",
+        "stats": {
+            "power": 16,
+            "regeneration": 38,
+            "resistance": 22
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Broken Prince Pants",
+        "rarity": "Rare",
+        "stats": {
+            "power": 16,
+            "regeneration": 38,
+            "resistance": 22
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Broken Prince Shirt",
+        "rarity": "Rare",
+        "stats": {
+            "power": 21,
+            "regeneration": 51,
+            "resistance":30
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Bronze_Chainmail_Shirt.webp",
+        "jewels": 2,
+        "level": 140,
+        "name": "Bronze Chainmail Shirt",
+        "rarity": "Rare",
+        "stats": {
+            "haste": 62,
+            "range": 39
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Cape_Of_Ravenna_Loyalty.webp",
+        "jewels": 2,
+        "level": 140,
+        "name": "Cape of Ravenna Loyalty",
+        "rarity": "Rare",
+        "stats": {
+            "haste": 49,
+            "range": 28
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 120,
+        "name": "Captain Maria's Boots",
+        "rarity": "Rare",
+        "stats": {
+            "power": 16,
+            "resistance": 18
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 120,
+        "name": "Captain Maria's Cape",
+        "rarity": "Rare",
+        "stats": {
+            "power": 16,
+            "resistance": 18
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 120,
+        "name": "Captain Maria's Cloak",
+        "rarity": "Rare",
+        "stats": {
+            "power": 22,
+            "resistance": 25
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Captain_Marias_Hat.webp",
+        "jewels": 2,
+        "level": 170,
+        "name": "Captain Maria's Hat",
+        "rarity": "Rare",
+        "stats": {
+            "power": 23,
+            "resistance": 26
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Cernyxs_Boots.webp",
+        "jewels": 2,
+        "level": 160,
+        "max_level": 160,
+        "name": "Cernyx's Boots",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 189,
+            "dexterity": 24
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Cernyxs_Faulds.webp",
+        "jewels": 2,
+        "level": 160,
+        "max_level": 160,
+        "name": "Cernyx's Faulds",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 189,
+            "dexterity": 24
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Cernyxs_Sleeveless_Robe.webp",
+        "jewels": 2,
+        "level": 160,
+        "max_level": 160,
+        "name": "Cernyx's Sleeveless Robe",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 252,
+            "dexterity": 32
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Collared_Cape.webp",
+        "jewels": 2,
+        "level": 140,
+        "name": "Collared Cape",
+        "rarity": "Rare",
+        "stats": {
+
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Crystal Fury Armor",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 367,
+            "drawback": 3,
+            "resistance": 56
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Crystal Fury Helmet",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 275,
+            "drawback": 2,
+            "resistance": 42
+        },
+        "type": "Helmet"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Crystal Fury Leggings",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 275,
+            "drawback": 2,
+            "resistance": 42
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Crystal Remnant Armor",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 275,
+            "resistance": 42
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Crystal Remnant Helmet",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 206,
+            "resistance": 31
+        },
+        "type": "Helmet"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Crystal Remnant Leggings",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 206,
+            "resistance": 31
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 120,
+        "name": "Diatrys Armor",
+        "rarity": "Rare",
+        "stats": {
+            "power": 13,
+            "warding": 1,
+            "pierce": 43
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Diatrys Hood",
+        "rarity": "Rare",
+        "stats": {
+            "power": 10,
+            "warding": 1,
+            "pierce": 33
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 120,
+        "name": "Diatrys Leggings",
+        "rarity": "Rare",
+        "stats": {
+            "power": 10,
+            "warding": 1,
+            "pierce": 33
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Dromeas_Boots.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Dromeas Boots",
+        "rarity": "Rare",
+        "stats": {
+            "defense": -98,
+            "dexterity": 40,
+            "range": 61
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Dromeas_Trappings.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Dromeas Trappings",
+        "rarity": "Rare",
+        "stats": {
+            "defense": -98,
+            "dexterity": 40,
+            "range": 61
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Dromeas_Tunic.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Dromeas Tunic",
+        "rarity": "Rare",
+        "stats": {
+            "defense": -130,
+            "dexterity": 54,
+            "range": 81
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Fenrir Castellan Boots",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 206,
+            "haste": 22,
+            "resistance": 22
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Fenrir Castellan Cloak",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 137,
+            "haste": 15,
+            "resistance": 15
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Fenrir Castellan Eyepatch",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 137,
+            "haste": 15,
+            "resistance": 15
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Fenrir Castallan Gauntlets",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 275,
+            "haste": 30,
+            "resistance": 30
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Fenrir Castellan Helmet",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 206,
+            "haste": 22,
+            "resistance": 22
+        },
+        "type": "Helmet"
+    },
+    {
+        "jewels": 2,
+        "level": 130,
+        "name": "Jaw Captain Cape",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 78,
+            "pierce": 24,
+            "resistance": 14
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 130,
+        "name": "Jaw Captain Coat",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 105,
+            "pierce": 32,
+            "resistance": 19
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 130,
+        "name": "Jaw Captain Hat",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 78,
+            "pierce": 24,
+            "resistance": 14
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 150,
+        "name": "Kraken Band",
+        "rarity": "Rare",
+        "stats": {
+            "power": 26,
+            "defense": 101,
+            "range": 18
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 160,
+        "name": "Leviathan Armor",
+        "rarity": "Rare",
+        "stats": {
+            "power": 22,
+            "dexterity": 28,
+            "resistance": 28
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 160,
+        "name": "Leviathan Boots",
+        "rarity": "Rare",
+        "stats": {
+            "power": 16,
+            "dexterity": 21,
+            "resistance": 21
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 160,
+        "name": "Leviathan Robe",
+        "rarity": "Rare",
+        "stats": {
+            "power": 16,
+            "dexterity": 21,
+            "resistance": 21
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Lion_Of_Ravenna_Armor.webp",
+        "jewels": 2,
+        "level": 140,
+        "name": "Lion of Ravenna Armor",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 221,
+            "haste": 37
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Lion of Ravenna Helmet",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 201,
+            "haste": 34
+        },
+        "type": "Helmet"
+    },
+    {
+        "image": "../assets/Lion_Of_Ravenna_Leggings.webp",
+        "jewels": 2,
+        "level": 170,
+        "name": "Lion of Ravenna Leggings",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 201,
+            "haste": 34
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 100,
+        "name": "Lost Chief Armor",
+        "rarity": "Rare",
+        "stats": {
+            "power": 20,
+            "size": 20
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 100,
+        "name": "Lost Chief Boots",
+        "rarity": "Rare",
+        "stats": {
+            "power": 15,
+            "size": 15
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 100,
+        "name": "Lost Chief Cloak",
+        "rarity": "Rare",
+        "stats": {
+            "power": 15,
+            "size": 15
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "modifiers": {
+            "Gilded": true
+        },
+        "name": "Lost Diplomat Pants",
+        "rarity": "Rare",
+        "stats": {
+            "power": 27,
+            "resistance": 28
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Lost_Diplomat_Pauldrons.webp",
+        "jewels": 2,
+        "level": 170,
+        "modifiers": {
+            "Gilded": true
+        },
+        "name": "Lost Diplomat Pauldrons",
+        "rarity": "Rare",
+        "stats": {
+            "power": 27,
+            "resistance": 28
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Lost_Diplomat_Robes.webp",
+        "jewels": 2,
+        "level": 170,
+        "modifiers": {
+            "Gilded": true
+        },
+        "name": "Lost Diplomat Robes",
+        "rarity": "Rare",
+        "stats": {
+            "power": 36,
+            "resistance": 38
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "modifiers": {
+            "Gilded": true
+        },
+        "name": "Lost Envoy Pants",
+        "rarity": "Rare",
+        "stats": {
+            "power": 27,
+            "regeneration": 28
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Lost_Envoy_Pauldrons.webp",
+        "jewels": 2,
+        "level": 170,
+        "modifiers": {
+            "Gilded": true
+        },
+        "name": "Lost Envoy Pauldrons",
+        "rarity": "Rare",
+        "stats": {
+            "power": 27,
+            "regeneration": 28
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "modifiers": {
+            "Gilded": true
+        },
+        "name": "Lost Envoy Robes",
+        "rarity": "Rare",
+        "stats": {
+            "power": 36,
+            "regeneration": 38
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Mantello_Of_Ravennas_Fallen_King.webp",
+        "jewels": 2,
+        "level": 170,
+        "name": "Mantello of Ravenna's Fallen King",
+        "rarity": "Rare",
+        "stats": {
+            "power": 22,
+            "size": 19,
+            "range": 19
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 50,
+        "name": "Obulus Bracelet",
+        "rarity": "Rare",
+        "stats": {
+            "size": 15,
+            "haste": 24
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 0,
+        "level": 170,
+        "name": "Ocean Amulet",
+        "rarity": "Rare",
+        "stats": {
+            "power": 16,
+            "regeneration": 49,
+            "pierce":49
+        },
+        "type": "Amulet"
+    },
+    {
+        "jewels": 0,
+        "level": 150,
+        "modifiers": {
+            "all": true
+        },
+        "name": "Oracle Amulet [Poor]",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 101,
+            "regeneration": 62
+        },
+        "type": "Spirit Amulet"
+    },
+    {
+        "jewels": 2,
+        "level": 150,
+        "modifiers": {
+            "all": true
+        },
+        "name": "Oracle Armor",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 243,
+            "regeneration": 22
+        },
+        "type": "Spirit Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 160,
+        "modifiers": {
+            "all": true
+        },
+        "name": "Oracle Bracelet",
+        "rarity": "Rare",
+        "stats": {
+            "dexterity": 40,
+            "regeneration": 40
+        },
+        "type": "Spirit Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 160,
+        "modifiers": {
+            "all": true
+        },
+        "name": "Oracle Hat",
+        "rarity": "Rare",
+        "stats": {
+            "power": 20,
+            "regeneration": 18
+        },
+        "type": "Spirit Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 100,
+        "modifiers": {
+            "all": true
+        },
+        "name": "Oracle Helmet",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 121,
+            "regeneration": 11
+        },
+        "type": "Spirit Helmet"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "modifiers": {
+            "all": true
+        },
+        "name": "Oracle Leggings",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 206,
+            "regeneration": 19
+        },
+        "type": "Spirit Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 130,
+        "modifiers": {
+            "all": true
+        },
+        "name": "Oracle Pants",
+        "rarity": "Rare",
+        "stats": {
+            "power": 17,
+            "regeneration": 14
+        },
+        "type": "Spirit Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 160,
+        "modifiers": {
+            "all": true
+        },
+        "name": "Oracle Robes",
+        "rarity": "Rare",
+        "stats": {
+            "power": 28,
+            "regeneration": 24
+        },
+        "type": "Spirit Chestpiece"
+    },
+    {
+        "image": "../assets/Ravenna_Apostle_Bracelets.webp",
+        "jewels": 2,
+        "level": 100,
+        "name": "Ravenna Apostle Bracelets",
+        "rarity": "Rare",
+        "stats": {
+            "power": 13,
+            "dexterity": 15
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Ravenna_Apostle_Faulds.webp",
+        "jewels": 2,
+        "level": 100,
+        "name": "Ravenna Apostle Faulds",
+        "rarity": "Rare",
+        "stats": {
+            "power": 13,
+            "dexterity": 15
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Ravenna_Apostle_Gi.webp",
+        "jewels": 2,
+        "level": 90,
+        "name": "Ravenna Apostle Gi",
+        "rarity": "Rare",
+        "stats": {
+            "power": 15,
+            "dexterity": 18
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Ravenna_Apostle_Leggings.webp",
+        "jewels": 2,
+        "level": 100,
+        "name": "Ravenna Apostle Leggings",
+        "rarity": "Rare",
+        "stats": {
+            "power": 13,
+            "dexterity": 15
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Ravenna_Apostle_Pauldrons.webp",
+        "jewels": 2,
+        "level": 90,
+        "name": "Ravenna Apostle Pauldrons",
+        "rarity": "Rare",
+        "stats": {
+            "power": 11,
+            "dexterity": 13
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Ravenna_Fallen_King_Armor.webp",
+        "jewels": 2,
+        "level": 140,
+        "name": "Ravenna Fallen King Armor",
+        "rarity": "Rare",
+        "stats": {
+            "power": 24,
+            "size": 21,
+            "range": 21
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Ravenna_Fallen_King_Boots.webp",
+        "jewels": 2,
+        "level": 170,
+        "name": "Ravenna Fallen King Boots",
+        "rarity": "Rare",
+        "stats": {
+            "power": 22,
+            "size": 19,
+            "range": 19
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Ravenna_Noble_Armor.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Ravenna Noble Armor",
+        "rarity": "Rare",
+        "stats": {
+            "power": 21,
+            "range": 24
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Ravenna_Noble_Boots.webp",
+        "jewels": 2,
+        "level": 100,
+        "name": "Ravenna Noble Boots",
+        "rarity": "Rare",
+        "stats": {
+            "power": 13,
+            "range": 15
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Ravenna Undying King Armor",
+        "rarity": "Rare",
+        "stats": {
+            "power": 29,
+            "dexterity": 25,
+            "pierce": 25
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Ravenna Undying King Boots",
+        "rarity": "Rare",
+        "stats": {
+            "power": 22,
+            "dexterity": 19,
+            "pierce": 19
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Ravenna Undying King Cloak",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 114,
+            "dexterity": 12,
+            "pierce": 12
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Ravenna Undying King Helmet",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 172,
+            "dexterity": 19,
+            "pierce": 19
+        },
+        "type": "Helmet"
+    },
+    {
+        "image": "../assets/Scorching_Sentinel_Armor.webp",
+        "jewels": 2,
+        "level": 130,
+        "name": "Scorching Sentinel Armor",
+        "rarity": "Rare",
+        "stats": {
+            "power": 20,
+            "haste": 21,
+            "pierce": 21
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Scorching_Sentinel_Helmet.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Scorching Sentinel Helmet",
+        "rarity": "Rare",
+        "stats": {
+            "power": 14,
+            "haste": 15,
+            "pierce": 15
+        },
+        "type": "Helmet"
+    },
+    {
+        "image": "../assets/Scorching_Sentinel_Leggings.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Scorching Sentinel Leggings",
+        "rarity": "Rare",
+        "stats": {
+            "power": 14,
+            "haste": 15,
+            "pierce": 15
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Scorching_Sentinel_Mask.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Scorching Sentinel Mask",
+        "rarity": "Rare",
+        "stats": {
+            "power": 14,
+            "haste": 15,
+            "pierce": 15
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Scorching_Sentinel_Pauldrons.webp",
+        "jewels": 2,
+        "level": 130,
+        "name": "Scorching Sentinel Pauldrons",
+        "rarity": "Rare",
+        "stats": {
+            "power": 15,
+            "haste": 16,
+            "pierce": 16
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Shroud.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Shroud",
+        "rarity": "Rare",
+        "stats": {
+            "power": 15,
+            "range": 18
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Sophragos_Hood.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Sophragos Hood",
+        "rarity": "Rare",
+        "stats": {
+            "power": 34,
+            "defense": -100
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Sophragos_Pants.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Sophragos Pants",
+        "rarity": "Rare",
+        "stats": {
+            "power": 34,
+            "defense": -100
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Sophragos_Robes.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Sophragos Robes",
+        "rarity": "Rare",
+        "stats": {
+            "power": 45,
+            "defense": -133
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "The Lost Coronet of Skyhall",
+        "rarity": "Rare",
+        "stats": {
+            "power": 16,
+            "regeneration": 38,
+            "resistance": 22
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/The_Lost_Crown_Of_Ravenna.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "The Lost Crown of Ravenna",
+        "rarity": "Rare",
+        "stats": {
+            "power": 15,
+            "size": 13,
+            "range": 13
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Theurgist_Cloak.webp",
+        "jewels": 3,
+        "level": 120,
+        "name": "Theurgist Cloak",
+        "rarity": "Rare",
+        "stats": {
+            "dexterity": 46,
+            "warding": 1
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Theurgist_Hat.webp",
+        "jewels": 3,
+        "level": 120,
+        "name": "Theugist Hat",
+        "rarity": "Rare",
+        "stats": {
+            "dexterity": 46,
+            "warding": 1
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Theurgist_Pants.webp",
+        "jewels": 3,
+        "level": 170,
+        "name": "Theurgist Pants",
+        "rarity": "Rare",
+        "stats": {
+            "dexterity": 46,
+            "warding": 1
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Theurgist_Robes.webp",
+        "jewels": 3,
+        "level": 120,
+        "name": "Theurgist Robes",
+        "rarity": "Rare",
+        "stats": {
+            "dexterity": 61,
+            "warding": 1
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Vatrachos_Armor.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Vatrachos Armor",
+        "rarity": "Rare",
+        "stats": {
+            "power": 37,
+            "defense": 97,
+            "drawback": 3
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Vatrachos_Boots.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Vatrachos Boots",
+        "rarity": "Rare",
+        "stats": {
+            "power": 28,
+            "defense": 72,
+            "drawback": 2
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Vatrachos_Cape.webp",
+        "jewels": 2,
+        "level": 120,
+        "name": "Vatrachos Cape",
+        "rarity": "Rare",
+        "stats": {
+            "power": 28,
+            "defense": 72,
+            "drawback": 2
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Vatrachos_Helmet.webp",
+        "jewels": 2,
+        "level": 170,
+        "name": "Vatrachos Helmet",
+        "rarity": "Rare",
+        "stats": {
+            "power": 28,
+            "defense": 72,
+            "drawback": 2
+        },
+        "type": "Helmet"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Warrior of Gold Armor",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 268,
+            "dexterity": 45
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Warrior of Gold Cloak",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 134,
+            "dexterity": 23
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Warrior of Gold Helmet",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 201,
+            "dexterity": 35
+        },
+        "type": "Helmet"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Warrior of Gold Leggings",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 201,
+            "dexterity": 35
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Adventurers_Jacket.webp",
+        "jewels": 2,
+        "level": 170,
+        "modifiers": {
+            "all": true
+        },
+        "name": "Adventurer's Jacket",
+        "rarity": "Uncommon",
+        "stats": {
+            "size": 63,
+            "pierce": 38
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Aereus_Hat.webp",
+        "jewels": 2,
+        "level": 120,
+        "modifiers": {
+            "all": true
+        },
+        "name": "Aereus Hat",
+        "rarity": "Uncommon",
+        "stats": {
+            "size": 39,
+            "haste": 26
+        },
+        "type": "Accessory"
+    },
+    {
+        "image": "../assets/Aereus_Pants.webp",
+        "jewels": 2,
+        "level": 120,
+        "modifiers": {
+            "all": true
+        },
+        "name": "Aereus Pants",
+        "rarity": "Uncommon",
+        "stats": {
+            "size": 39,
+            "haste": 26
+        },
+        "type": "Leggings"
+    },
+    {
+        "image": "../assets/Aereus_Robes.webp",
+        "jewels": 2,
+        "level": 120,
+        "modifiers": {
+            "all": true
+        },
+        "name": "Aereus Robes",
+        "rarity": "Uncommon",
+        "stats": {
+            "size": 52,
+            "haste": 36
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "image": "../assets/Arcanium_Arcsphere.webp",
+        "jewels": 2,
+        "level": 170,
+        "magic-stats": [
+            {
+                "level": 140,
+                "name": "Acid",
+                "stats": {
+                    "power": 9,
+                    "pierce": 42
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ash",
+                "stats": {
+                    "power": 12,
+                    "size": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Crystal",
+                "stats": {
+                    "power": 9,
+                    "defense": 77,
+                    "haste": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Earth",
+                "stats": {
+                    "power": 9,
+                    "defense": 115,
+                    "size": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Explosion",
+                "stats": {
+                    "power": 9,
+                    "size": 42
+                }
+            },
+            {
+                "level": 140,
+                "name": "Fire",
+                "stats": {
+                    "power": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Glass",
+                "stats": {
+                    "power": 26,
+                    "defense": -38
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ice",
+                "stats": {
+                    "power": 9,
+                    "defense": 38,
+                    "resistance": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Light",
+                "stats": {
+                    "power": 9,
+                    "size": -10,
+                    "dexterity": 51
+                }
+            },
+            {
+                "level": 140,
+                "name": "Lightning",
+                "stats": {
+                    "power": 9,
+                    "range": 10,
+                    "dexterity": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Magma",
+                "stats": {
+                    "power": 16,
+                    "size": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Metal",
+                "stats": {
+                    "power": 9,
+                    "defense": 154,
+                    "range": -10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Plasma",
+                "stats": {
+                    "power": 19,
+                    "haste": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Poison",
+                "stats": {
+                    "power": 19,
+                    "pierce": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sand",
+                "stats": {
+                    "power": 9,
+                    "haste": 42
+                }
+            },
+            {
+                "level": 140,
+                "name": "Shadow",
+                "stats": {
+                    "power": 16,
+                    "dexterity": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Snow",
+                "stats": {
+                    "power": 9,
+                    "size": 31,
+                    "dexterity": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Water",
+                "stats": {
+                    "power": 9,
+                    "size": 31,
+                    "haste": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wind",
+                "stats": {
+                    "power": 9,
+                    "range": 10,
+                    "size": 10,
+                    "dexterity": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wood",
+                "stats": {
+                    "power": 12,
+                    "defense": 115
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Arcanium Arcsphere",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 9
+        },
+        "type": "Magic Accessory"
+    },
+    {
+        "image": "../assets/Arcanium_Armor.webp",
+        "jewels": 2,
+        "level": 150,
+        "magic-stats": [
+            {
+                "level": 140,
+                "name": "Acid",
+                "stats": {
+                    "defense": 64,
+                    "pierce": 42,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ash",
+                "stats": {
+                    "power": 3,
+                    "defense": 64,
+                    "size": 31,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Crystal",
+                "stats": {
+                    "defense": 141,
+                    "haste": 20,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Earth",
+                "stats": {
+                    "defense": 179,
+                    "size": 10,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Explosion",
+                "stats": {
+                    "defense": 64,
+                    "size": 42,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Fire",
+                "stats": {
+                    "power": 14,
+                    "defense": 64,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Glass",
+                "stats": {
+                    "power": 17,
+                    "defense": 26,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ice",
+                "stats": {
+                    "defense": 102,
+                    "resistance": 50
+                }
+            },
+            {
+                "level": 140,
+                "name": "Light",
+                "stats": {
+                    "defense": 64,
+                    "size": -10,
+                    "dexterity": 51,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Lightning",
+                "stats": {
+                    "defense": 64,
+                    "range": 10,
+                    "dexterity": 31,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Magma",
+                "stats": {
+                    "power": 7,
+                    "defense": 64,
+                    "size": 20,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Metal",
+                "stats": {
+                    "defense": 218,
+                    "range": -10,
+                    "resistance": 29
+                }
+            },
+            {
+                "level": 140,
+                "name": "Plasma",
+                "stats": {
+                    "power": 10,
+                    "defense": 64,
+                    "haste": 10,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Poison",
+                "stats": {
+                    "power": 10,
+                    "defense": 64,
+                    "pierce": 10,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sand",
+                "stats": {
+                    "defense": 64,
+                    "haste": 42,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Shadow",
+                "stats": {
+                    "power": 7,
+                    "defense": 64,
+                    "dexterity": 20,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Snow",
+                "stats": {
+                    "defense": 64,
+                    "size": 31,
+                    "dexterity": 10,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Water",
+                "stats": {
+                    "defense": 64,
+                    "size": 31,
+                    "haste": 10,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wind",
+                "stats": {
+                    "defense": 64,
+                    "range": 10,
+                    "size": 10,
+                    "dexterity": 20,
+                    "resistance": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wood",
+                "stats": {
+                    "power": 3,
+                    "defense": 179,
+                    "resistance": 19
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Arcanium Armor",
+        "rarity": "Uncommon",
+        "stats": {
+            "defense": 106,
+            "resistance": 22
+        },
+        "type": "Magic Chestpiece"
+    },
+    {
+        "image": "../assets/Arcanium_Boots.webp",
+        "jewels": 2,
+        "level": 170,
+        "magic-stats": [
+            {
+                "level": 140,
+                "name": "Acid",
+                "stats": {
+                    "defense": 48,
+                    "pierce": 31,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ash",
+                "stats": {
+                    "power": 2,
+                    "defense": 48,
+                    "size": 23,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Crystal",
+                "stats": {
+                    "defense": 106,
+                    "haste": 15,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Earth",
+                "stats": {
+                    "defense": 135,
+                    "size": 8,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Explosion",
+                "stats": {
+                    "defense": 48,
+                    "size": 31,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Fire",
+                "stats": {
+                    "power": 9,
+                    "defense": 48,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Glass",
+                "stats": {
+                    "power": 13,
+                    "defense": 19,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ice",
+                "stats": {
+                    "defense": 77,
+                    "resistance": 37
+                }
+            },
+            {
+                "level": 140,
+                "name": "Light",
+                "stats": {
+                    "defense": 48,
+                    "size": -8,
+                    "dexterity": 38,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Lightning",
+                "stats": {
+                    "defense": 48,
+                    "range": 8,
+                    "dexterity": 23,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Magma",
+                "stats": {
+                    "power": 5,
+                    "defense": 48,
+                    "size": 15,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Metal",
+                "stats": {
+                    "defense": 163,
+                    "range": -8,
+                    "resistance": 22
+                }
+            },
+            {
+                "level": 140,
+                "name": "Plasma",
+                "stats": {
+                    "power": 8,
+                    "defense": 48,
+                    "haste": 8,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Poison",
+                "stats": {
+                    "power": 8,
+                    "defense": 48,
+                    "pierce": 8,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sand",
+                "stats": {
+                    "defense": 48,
+                    "haste": 31,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Shadow",
+                "stats": {
+                    "power": 5,
+                    "defense": 48,
+                    "dexterity": 15,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Snow",
+                "stats": {
+                    "defense": 48,
+                    "size": 23,
+                    "dexterity": 8,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Water",
+                "stats": {
+                    "defense": 48,
+                    "size": 23,
+                    "haste": 8,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wind",
+                "stats": {
+                    "defense": 48,
+                    "range": 7,
+                    "size": 7,
+                    "dexterity": 15,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wood",
+                "stats": {
+                    "power": 2,
+                    "defense": 135,
+                    "resistance": 14
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Arcanium Boots",
+        "rarity": "Uncommon",
+        "stats": {
+            "defense": 79,
+            "resistance": 16
+        },
+        "type": "Magic Leggings"
+    },
+    {
+        "image": "../assets/Arcanium_Bracelet.webp",
+        "jewels": 2,
+        "level": 120,
+        "magic-stats": [
+            {
+                "level": 140,
+                "name": "Acid",
+                "stats": {
+                    "power": 12,
+                    "haste": 9,
+                    "pierce": 42
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ash",
+                "stats": {
+                    "power": 15,
+                    "size": 31,
+                    "haste": 9
+                }
+            },
+            {
+                "level": 140,
+                "name": "Crystal",
+                "stats": {
+                    "power": 12,
+                    "defense": 77,
+                    "haste": 29
+                }
+            },
+            {
+                "level": 140,
+                "name": "Earth",
+                "stats": {
+                    "power": 12,
+                    "defense": 115,
+                    "size": 10,
+                    "haste": 9
+                }
+            },
+            {
+                "level": 140,
+                "name": "Explosion",
+                "stats": {
+                    "power": 12,
+                    "size": 42,
+                    "haste": 9
+                }
+            },
+            {
+                "level": 140,
+                "name": "Fire",
+                "stats": {
+                    "power": 26,
+                    "haste": 9
+                }
+            },
+            {
+                "level": 140,
+                "name": "Glass",
+                "stats": {
+                    "power": 29,
+                    "defense": -38,
+                    "haste": 9
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ice",
+                "stats": {
+                    "power": 12,
+                    "defense": 38,
+                    "haste": 9,
+                    "resistance": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Light",
+                "stats": {
+                    "power": 12,
+                    "size": -10,
+                    "dexterity": 51,
+                    "haste": 9
+                }
+            },
+            {
+                "level": 140,
+                "name": "Lightning",
+                "stats": {
+                    "power": 12,
+                    "range": 10,
+                    "dexterity": 31,
+                    "haste": 9
+                }
+            },
+            {
+                "level": 140,
+                "name": "Magma",
+                "stats": {
+                    "power": 19,
+                    "size": 20,
+                    "haste": 9
+                }
+            },
+            {
+                "level": 140,
+                "name": "Metal",
+                "stats": {
+                    "power": 12,
+                    "defense": 154,
+                    "range": -10,
+                    "haste": 9,
+                    "resistance": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Plasma",
+                "stats": {
+                    "power": 22,
+                    "haste": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Poison",
+                "stats": {
+                    "power": 22,
+                    "haste": 9,
+                    "pierce": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sand",
+                "stats": {
+                    "power": 12,
+                    "haste": 51
+                }
+            },
+            {
+                "level": 140,
+                "name": "Shadow",
+                "stats": {
+                    "power": 19,
+                    "dexterity": 20,
+                    "haste": 9
+                }
+            },
+            {
+                "level": 140,
+                "name": "Snow",
+                "stats": {
+                    "power": 12,
+                    "size": 31,
+                    "dexterity": 10,
+                    "haste": 9
+                }
+            },
+            {
+                "level": 140,
+                "name": "Water",
+                "stats": {
+                    "power": 12,
+                    "size": 31,
+                    "haste": 19
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wind",
+                "stats": {
+                    "power": 12,
+                    "range": 10,
+                    "size": 10,
+                    "dexterity": 20,
+                    "haste": 9
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wood",
+                "stats": {
+                    "power": 15,
+                    "defense": 115,
+                    "haste": 9
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Arcanium Bracelet",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 8,
+            "haste": 9
+        },
+        "type": "Magic Accessory"
+    },
+    {
+        "image": "../assets/Arcanium_Helmet.webp",
+        "jewels": 2,
+        "level": 150,
+        "magic-stats": [
+            {
+                "level": 140,
+                "name": "Acid",
+                "stats": {
+                    "defense": 48,
+                    "pierce": 31,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ash",
+                "stats": {
+                    "power": 2,
+                    "defense": 48,
+                    "size": 23,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Crystal",
+                "stats": {
+                    "defense": 106,
+                    "haste": 15,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Earth",
+                "stats": {
+                    "defense": 135,
+                    "size": 8,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Explosion",
+                "stats": {
+                    "defense": 48,
+                    "size": 31,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Fire",
+                "stats": {
+                    "power": 9,
+                    "defense": 48,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Glass",
+                "stats": {
+                    "power": 13,
+                    "defense": 19,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ice",
+                "stats": {
+                    "defense": 77,
+                    "resistance": 37
+                }
+            },
+            {
+                "level": 140,
+                "name": "Light",
+                "stats": {
+                    "defense": 48,
+                    "size": -8,
+                    "dexterity": 38,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Lightning",
+                "stats": {
+                    "defense": 48,
+                    "range": 8,
+                    "dexterity": 23,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Magma",
+                "stats": {
+                    "power": 5,
+                    "defense": 48,
+                    "size": 15,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Metal",
+                "stats": {
+                    "defense": 163,
+                    "range": -8,
+                    "resistance": 22
+                }
+            },
+            {
+                "level": 140,
+                "name": "Plasma",
+                "stats": {
+                    "power": 8,
+                    "defense": 48,
+                    "haste": 8,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Poison",
+                "stats": {
+                    "power": 8,
+                    "defense": 48,
+                    "pierce": 8,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sand",
+                "stats": {
+                    "defense": 48,
+                    "haste": 31,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Shadow",
+                "stats": {
+                    "power": 5,
+                    "defense": 48,
+                    "dexterity": 15,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Snow",
+                "stats": {
+                    "defense": 48,
+                    "size": 23,
+                    "dexterity": 8,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Water",
+                "stats": {
+                    "defense": 48,
+                    "size": 23,
+                    "haste": 8,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wind",
+                "stats": {
+                    "defense": 48,
+                    "range": 7,
+                    "size": 7,
+                    "dexterity": 15,
+                    "resistance": 14
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wood",
+                "stats": {
+                    "power": 2,
+                    "defense": 135,
+                    "resistance": 14
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Arcanium Helmet",
+        "rarity": "Uncommon",
+        "stats": {
+            "defense": 79,
+            "resistance": 16
+        },
+        "type": "Magic Helmet"
+    },
+    {
+        "image": "../assets/Arcanium_Mage_Coat.webp",
+        "jewels": 2,
+        "level": 150,
+        "magic-stats": [
+            {
+                "level": 170,
+                "name": "Acid",
+                "stats": {
+                    "range": 19,
+                    "haste": 32,
+                    "pierce": 42
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ash",
+                "stats": {
+                    "power": 3,
+                    "range": 19,
+                    "size": 31,
+                    "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Crystal",
+                "stats": {
+                    "defense": 77,
+                    "range": 19,
+                    "haste": 52
+                }
+            },
+            {
+                "level": 140,
+                "name": "Earth",
+                "stats": {
+                    "defense": 115,
+                    "range": 19,
+                    "size": 10,
+                    "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Explosion",
+                "stats": {
+                    "range": 19,
+                    "size": 42,
+                    "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Fire",
+                "stats": {
+                    "power": 14,
+                    "range": 19,
+                    "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Glass",
+                "stats": {
+                    "power": 17,
+                    "defense": -38,
+                    "range": 19,
+                    "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ice",
+                "stats": {
+                    "defense": 38,
+                    "range": 19,
+                    "haste": 32,
+                    "resistance": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Light",
+                "stats": {
+                    "range": 19,
+                    "size": -10,
+                    "dexterity": 51,
+                    "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Lightning",
+                "stats": {
+                    "range": 29,
+                    "dexterity": 31,
+                    "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Magma",
+                "stats": {
+                    "power": 7,
+                    "range": 19,
+                    "size": 20,
+                    "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Metal",
+                "stats": {
+                    "defense": 154,
+                    "range": 9,
+                    "haste": 32,
+                    "resistance": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Plasma",
+                "stats": {
+                    "power": 10,
+                    "range": 19,
+                    "haste": 42
+                }
+            },
+            {
+                "level": 140,
+                "name": "Poison",
+                "stats": {
+                    "power": 10,
+                    "range": 19,
+                    "haste": 32,
+                    "pierce": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sand",
+                "stats": {
+                    "range": 19,
+                    "haste": 74
+                }
+            },
+            {
+                "level": 140,
+                "name": "Shadow",
+                "stats": {
+                    "power": 7,
+                    "range": 19,
+                    "dexterity": 20,
+                    "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Snow",
+                "stats": {
+                    "range": 19,
+                    "size": 31,
+                    "dexterity": 10,
+                    "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Water",
+                "stats": {
+                    "range": 19,
+                    "size": 31,
+                    "dexterity": 10,
+                    "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wind",
+                "stats": {
+                    "range": 29,
+                    "size": 10,
+                    "dexterity": 20,
+                    "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wood",
+                "stats": {
+                    "power": 3,
+                    "defense": 115,
+                    "range": 19,
+                    "haste": 32
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Arcanium Mage Coat",
+        "rarity": "Uncommon",
+        "stats": {
+            "haste": 42,
+            "range": 25
+        },
+        "type": "Magic Chestpiece"
+    },
+    {
+        "image": "../assets/Arcanium_Mage_Hat.webp",
+        "jewels": 2,
+        "level": 170,
+        "magic-stats": [
+            {
+                "level": 140,
+                "name": "Acid",
+                "stats": {
+                "range": 14,
+                "haste": 24,
+                "pierce": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ash",
+                "stats": {
+                "power": 2,
+                "range": 14,
+                "size": 23,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Crystal",
+                "stats": {
+                "defense": 58,
+                "range": 14,
+                "haste": 39
+                }
+            },
+            {
+                "level": 140,
+                "name": "Earth",
+                "stats": {
+                "defense": 87,
+                "range": 14,
+                "size": 8,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Explosion",
+                "stats": {
+                "range": 14,
+                "size": 31,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Fire",
+                "stats": {
+                "power": 9,
+                "range": 14,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Glass",
+                "stats": {
+                "power": 13,
+                "defense": -29,
+                "range": 14,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ice",
+                "stats": {
+                "defense": 29,
+                "range": 14,
+                "haste": 24,
+                "resistance": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Light",
+                "stats": {
+                "range": 14,
+                "size": -8,
+                "dexterity": 38,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Lightning",
+                "stats": {
+                "range": 22,
+                "dexterity": 23,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Magma",
+                "stats": {
+                "power": 5,
+                "range": 14,
+                "size": 15,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Metal",
+                "stats": {
+                "defense": 115,
+                "range": 6,
+                "haste": 24,
+                "resistance": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Plasma",
+                "stats": {
+                "power": 8,
+                "range": 14,
+                "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Poison",
+                "stats": {
+                "power": 8,
+                "range": 14,
+                "haste": 24,
+                "pierce": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sand",
+                "stats": {
+                "range": 14,
+                "haste": 55
+                }
+            },
+            {
+                "level": 140,
+                "name": "Shadow",
+                "stats": {
+                "power": 5,
+                "range": 14,
+                "dexterity": 15,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Snow",
+                "stats": {
+                "range": 14,
+                "size": 23,
+                "dexterity": 8,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Water",
+                "stats": {
+                "range": 14,
+                "size": 23,
+                "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wind",
+                "stats": {
+                "range": 21,
+                "size": 7,
+                "dexterity": 15,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wood",
+                "stats": {
+                "power": 2,
+                "defense": 87,
+                "range": 14,
+                "haste": 24
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Arcanium Mage Hat",
+        "rarity": "Uncommon",
+        "stats": {
+            "haste": 31,
+            "range": 19
+        },
+        "type": "Magic Accessory"
+    },
+    {
+        "image": "../assets/Arcanium_Mage_Pants.webp",
+        "jewels": 2,
+        "level": 160,
+        "magic-stats": [
+            {
+                "level": 140,
+                "name": "Acid",
+                "stats": {
+                "range": 14,
+                "haste": 24,
+                "pierce": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ash",
+                "stats": {
+                "power": 2,
+                "range": 14,
+                "size": 23,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Crystal",
+                "stats": {
+                "defense": 58,
+                "range": 14,
+                "haste": 39
+                }
+            },
+            {
+                "level": 140,
+                "name": "Earth",
+                "stats": {
+                "defense": 87,
+                "range": 14,
+                "size": 8,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Explosion",
+                "stats": {
+                "range": 14,
+                "size": 31,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Fire",
+                "stats": {
+                "power": 9,
+                "range": 14,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Glass",
+                "stats": {
+                "power": 13,
+                "defense": -29,
+                "range": 14,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ice",
+                "stats": {
+                "defense": 29,
+                "range": 14,
+                "haste": 24,
+                "resistance": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Light",
+                "stats": {
+                "range": 14,
+                "size": -8,
+                "dexterity": 38,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Lightning",
+                "stats": {
+                "range": 22,
+                "dexterity": 23,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Magma",
+                "stats": {
+                "power": 5,
+                "range": 14,
+                "size": 15,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Metal",
+                "stats": {
+                "defense": 115,
+                "range": 6,
+                "haste": 24,
+                "resistance": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Plasma",
+                "stats": {
+                "power": 8,
+                "range": 14,
+                "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Poison",
+                "stats": {
+                "power": 8,
+                "range": 14,
+                "haste": 24,
+                "pierce": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sand",
+                "stats": {
+                "range": 14,
+                "haste": 55
+                }
+            },
+            {
+                "level": 140,
+                "name": "Shadow",
+                "stats": {
+                "power": 5,
+                "range": 14,
+                "dexterity": 15,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Snow",
+                "stats": {
+                "range": 14,
+                "size": 23,
+                "dexterity": 8,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Water",
+                "stats": {
+                "range": 14,
+                "size": 23,
+                "haste": 32
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wind",
+                "stats": {
+                "range": 21,
+                "size": 7,
+                "dexterity": 15,
+                "haste": 24
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wood",
+                "stats": {
+                "power": 2,
+                "defense": 87,
+                "range": 14,
+                "haste": 24
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Arcanium Mage Pants",
+        "rarity": "Uncommon",
+        "stats": {
+            "haste": 30,
+            "range": 18
+        },
+        "type": "Magic Leggings"
+    },
+    {
+        "image": "../assets/Arcmancer_Hat.webp",
+        "jewels": 2,
+        "level": 140,
+        "magic-stats": [
+            {
+                "level": 140,
+                "name": "Acid",
+                "stats": {
+                "power": 12,
+                "pierce": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ash",
+                "stats": {
+                "power": 14,
+                "size": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Crystal",
+                "stats": {
+                "power": 12,
+                "defense": 58,
+                "haste": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Earth",
+                "stats": {
+                "power": 12,
+                "defense": 87,
+                "size": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Explosion",
+                "stats": {
+                "power": 12,
+                "size": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Fire",
+                "stats": {
+                "power": 21
+                }
+            },
+            {
+                "level": 140,
+                "name": "Glass",
+                "stats": {
+                "power": 25,
+                "defense": -29
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ice",
+                "stats": {
+                "power": 12,
+                "defense": 29,
+                "resistance": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Light",
+                "stats": {
+                "power": 12,
+                "size": -8,
+                "dexterity": 38
+                }
+            },
+            {
+                "level": 140,
+                "name": "Lightning",
+                "stats": {
+                "power": 12,
+                "range": 8,
+                "dexterity": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Magma",
+                "stats": {
+                "power": 17,
+                "size": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Metal",
+                "stats": {
+                "power": 12,
+                "defense": 115,
+                "range": -8,
+                "resistance": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Plasma",
+                "stats": {
+                "power": 20,
+                "haste": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Poison",
+                "stats": {
+                "power": 20,
+                "pierce": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sand",
+                "stats": {
+                "power": 12,
+                "haste": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Shadow",
+                "stats": {
+                "power": 17,
+                "dexterity": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Snow",
+                "stats": {
+                "power": 12,
+                "size": 23,
+                "dexterity": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Water",
+                "stats": {
+                "power": 12,
+                "size": 23,
+                "haste": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wind",
+                "stats": {
+                "power": 12,
+                "range": 7,
+                "size": 7,
+                "dexterity": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wood",
+                "stats": {
+                "power": 14,
+                "defense": 87
+                }
+            }
+            ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Arcmancer Hat",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 12
+        },
+        "type": "Magic Accessory"
+    },
+    {
+        "image": "../assets/Arcmancer_Pants.webp",
+        "jewels": 2,
+        "level": 140,
+        "magic-stats": [
+            {
+                "level": 140,
+                "name": "Acid",
+                "stats": {
+                "power": 12,
+                "pierce": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ash",
+                "stats": {
+                "power": 14,
+                "size": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Crystal",
+                "stats": {
+                "power": 12,
+                "defense": 58,
+                "haste": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Earth",
+                "stats": {
+                "power": 12,
+                "defense": 87,
+                "size": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Explosion",
+                "stats": {
+                "power": 12,
+                "size": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Fire",
+                "stats": {
+                "power": 21
+                }
+            },
+            {
+                "level": 140,
+                "name": "Glass",
+                "stats": {
+                "power": 25,
+                "defense": -29
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ice",
+                "stats": {
+                "power": 12,
+                "defense": 29,
+                "resistance": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Light",
+                "stats": {
+                "power": 12,
+                "size": -8,
+                "dexterity": 38
+                }
+            },
+            {
+                "level": 140,
+                "name": "Lightning",
+                "stats": {
+                "power": 12,
+                "range": 8,
+                "dexterity": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Magma",
+                "stats": {
+                "power": 17,
+                "size": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Metal",
+                "stats": {
+                "power": 12,
+                "defense": 115,
+                "range": -8,
+                "resistance": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Plasma",
+                "stats": {
+                "power": 20,
+                "haste": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Poison",
+                "stats": {
+                "power": 20,
+                "pierce": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sand",
+                "stats": {
+                "power": 12,
+                "haste": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Shadow",
+                "stats": {
+                "power": 17,
+                "dexterity": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Snow",
+                "stats": {
+                "power": 12,
+                "size": 23,
+                "dexterity": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Water",
+                "stats": {
+                "power": 12,
+                "size": 23,
+                "haste": 8
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wind",
+                "stats": {
+                "power": 12,
+                "range": 7,
+                "size": 7,
+                "dexterity": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wood",
+                "stats": {
+                "power": 14,
+                "defense": 87
+                }
+            }
+            ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Arcmancer Pants",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 12
+        },
+        "type": "Magic Leggings"
+    },
+    {
+        "image": "../assets/Arcmancer_Robes.webp",
+        "jewels": 2,
+        "level": 150,
+        "magic-stats": [
+            {
+                "level": 140,
+                "name": "Acid",
+                "stats": {
+                "power": 17,
+                "pierce": 42
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ash",
+                "stats": {
+                "power": 20,
+                "size": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Crystal",
+                "stats": {
+                "power": 17,
+                "defense": 77,
+                "haste": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Earth",
+                "stats": {
+                "power": 17,
+                "defense": 115,
+                "size": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Explosion",
+                "stats": {
+                "power": 17,
+                "size": 42
+                }
+            },
+            {
+                "level": 140,
+                "name": "Fire",
+                "stats": {
+                "power": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Glass",
+                "stats": {
+                "power": 34,
+                "defense": -38
+                }
+            },
+            {
+                "level": 140,
+                "name": "Ice",
+                "stats": {
+                "power": 17,
+                "defense": 38,
+                "resistance": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Light",
+                "stats": {
+                "power": 17,
+                "size": -10,
+                "dexterity": 51
+                }
+            },
+            {
+                "level": 140,
+                "name": "Lightning",
+                "stats": {
+                "power": 17,
+                "range": 10,
+                "dexterity": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Magma",
+                "stats": {
+                "power": 24,
+                "size": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Metal",
+                "stats": {
+                "power": 17,
+                "defense": 154,
+                "range": -10,
+                "resistance": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Plasma",
+                "stats": {
+                "power": 27,
+                "haste": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Poison",
+                "stats": {
+                "power": 27,
+                "pierce": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sand",
+                "stats": {
+                "power": 17,
+                "haste": 42
+                }
+            },
+            {
+                "level": 140,
+                "name": "Shadow",
+                "stats": {
+                "power": 24,
+                "dexterity": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Snow",
+                "stats": {
+                "power": 17,
+                "size": 31,
+                "dexterity": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Water",
+                "stats": {
+                "power": 17,
+                "size": 31,
+                "haste": 10
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wind",
+                "stats": {
+                "power": 17,
+                "range": 10,
+                "size": 10,
+                "dexterity": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Wood",
+                "stats": {
+                "power": 20,
+                "defense": 115
+                }
+            }
+            ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Arcmancer Robes",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 14
+        },
+        "type": "Magic Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 100,
+        "name": "Astralis Family Cape",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 10,
+            "range": 15
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 100,
+        "name": "Astralis Family Pants",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 10,
+            "range": 15
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 10,
+        "name": "Astralis Family Robes",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 0,
+            "range": 0
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 100,
+        "max_level": 100,
+        "name": "Bearpaw Leader Cloak",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 5,
+            "dexterity": 15
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 10,
+        "name": "Bearpaw Leader Vest",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 0,
+            "dexterity": 0
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 10,
+        "name": "Bogatyr Armor",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 0,
+            "defense": 0,
+            "pierce": 0
+        },
+        "type": "Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 100,
+        "name": "Bogatyr Boots",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 4,
+            "defense": 40,
+            "pierce": 21
+        },
+        "type": "Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "name": "Bogatyr Cape",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 7,
+            "defense": 68,
+            "pierce": 36
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 160,
+        "name": "Bogatyr Faulds",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 7,
+            "defense": 64,
+            "pierce": 34
+        },
+        "type": "Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 150,
+        "name": "Bogatyr Helmet",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 6,
+            "defense": 60,
+            "pierce": 32
+        },
+        "type": "Helmet"
+    },
+    {
+        "jewels": 2,
+        "level": 160,
+        "strength-stats": [
+            {
+                "level": 140,
+                "name": "Basic Combat",
+                "stats": {
+                "power": 7,
+                "defense": 194,
+                "haste": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Boxing",
+                "stats": {
+                "defense": 194,
+                "range": 20,
+                "resistance": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Cannon Fist",
+                "stats": {
+                "defense": 194,
+                "haste": 20,
+                "pierce": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Iron Leg",
+                "stats": {
+                "power": 7,
+                "defense": 194,
+                "size": -10,
+                "resistance": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sailor Style",
+                "stats": {
+                "power": 7,
+                "defense": 194,
+                "range": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Thermo Fist",
+                "stats": {
+                "defense": 194,
+                "range": -10,
+                "size": 31,
+                "dexterity": 20
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Fighting Armor",
+        "rarity": "Uncommon",
+        "stats": {
+            "defense": 181
+        },
+        "type": "Strength Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 160,
+        "strength-stats": [
+            {
+                "level": 140,
+                "name": "Basic Combat",
+                "stats": {
+                "power": 5,
+                "dexterity": 30,
+                "haste": 26
+                }
+            },
+            {
+                "level": 140,
+                "name": "Boxing",
+                "stats": {
+                "range": 15,
+                "dexterity": 15,
+                "haste": 26,
+                "resistance": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Cannon Fist",
+                "stats": {
+                "dexterity": 30,
+                "haste": 41
+                }
+            },
+            {
+                "level": 140,
+                "name": "Iron Leg",
+                "stats": {
+                "power": 5,
+                "size": -8,
+                "dexterity": 15,
+                "haste": 26,
+                "resistance": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sailor Style",
+                "stats": {
+                "power": 5,
+                "range": 15,
+                "dexterity": 15,
+                "haste": 26
+                }
+            },
+            {
+                "level": 140,
+                "name": "Thermo Fist",
+                "stats": {
+                "range": -8,
+                "size": 23,
+                "dexterity": 30,
+                "haste": 26
+                }
+            }
+            ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Fighting Balteus",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 6,
+            "pierce": 30
+        },
+        "type": "Strength Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 150,
+        "strength-stats": [
+            {
+                "level": 140,
+                "name": "Basic Combat",
+                "stats": {
+                "power": 5,
+                "defense": 145,
+                "dexterity": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Boxing",
+                "stats": {
+                "defense": 145,
+                "range": 15,
+                "resistance": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Cannon Fist",
+                "stats": {
+                "defense": 145,
+                "dexterity": 15,
+                "pierce": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Iron Leg",
+                "stats": {
+                "power": 5,
+                "defense": 145,
+                "size": -8,
+                "resistance": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sailor Style",
+                "stats": {
+                "power": 5,
+                "defense": 145,
+                "range": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Thermo Fist",
+                "stats": {
+                "defense": 145,
+                "range": -8,
+                "size": 23,
+                "dexterity": 15
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Fighting Belt",
+        "rarity": "Uncommon",
+        "stats": {
+            "defense": 127
+        },
+        "type": "Strength Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 110,
+        "strength-stats": [
+            {
+                "level": 140,
+                "name": "Basic Combat",
+                "stats": {
+                "power": 18,
+                "dexterity": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Boxing",
+                "stats": {
+                "power": 13,
+                "range": 15,
+                "resistance": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Cannon Fist",
+                "stats": {
+                "power": 13,
+                "dexterity": 15,
+                "pierce": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Iron Leg",
+                "stats": {
+                "power": 18,
+                "size": -8,
+                "resistance": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sailor Style",
+                "stats": {
+                "power": 18,
+                "range": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Thermo Fist",
+                "stats": {
+                "power": 13,
+                "range": -8,
+                "size": 23,
+                "dexterity": 15
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Fighting Boots",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 8
+        },
+        "type": "Strength Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 170,
+        "strength-stats": [
+            {
+                "level": 140,
+                "name": "Basic Combat",
+                "stats": {
+                "power": 7,
+                "dexterity": 41,
+                "haste": 35
+                }
+            },
+            {
+                "level": 140,
+                "name": "Boxing",
+                "stats": {
+                "range": 20,
+                "dexterity": 21,
+                "haste": 35,
+                "resistance": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Cannon Fist",
+                "stats": {
+                "dexterity": 41,
+                "haste": 55
+                }
+            },
+            {
+                "level": 140,
+                "name": "Iron Leg",
+                "stats": {
+                "power": 7,
+                "size": -10,
+                "dexterity": 21,
+                "haste": 35,
+                "resistance": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sailor Style",
+                "stats": {
+                "power": 7,
+                "range": 20,
+                "dexterity": 21,
+                "haste": 35
+                }
+            },
+            {
+                "level": 140,
+                "name": "Thermo Fist",
+                "stats": {
+                "range": -10,
+                "size": 31,
+                "dexterity": 41,
+                "haste": 35
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Fighting Chestplate",
+        "rarity": "Uncommon",
+        "stats": {
+            "haste": 25,
+            "pierce": 42
+        },
+        "type": "Strength Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 150,
+        "strength-stats": [
+            {
+                "level": 140,
+                "name": "Basic Combat",
+                "stats": {
+                "power": 5,
+                "dexterity": 30,
+                "haste": 25
+                }
+            },
+            {
+                "level": 140,
+                "name": "Boxing",
+                "stats": {
+                "range": 15,
+                "dexterity": 15,
+                "haste": 25,
+                "resistance": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Cannon Fist",
+                "stats": {
+                "dexterity": 30,
+                "haste": 40
+                }
+            },
+            {
+                "level": 140,
+                "name": "Iron Leg",
+                "stats": {
+                "power": 5,
+                "size": -8,
+                "dexterity": 15,
+                "haste": 25,
+                "resistance": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sailor Style",
+                "stats": {
+                "power": 5,
+                "range": 15,
+                "dexterity": 15,
+                "haste": 25
+                }
+            },
+            {
+                "level": 140,
+                "name": "Thermo Fist",
+                "stats": {
+                "range": -8,
+                "size": 23,
+                "dexterity": 30,
+                "haste": 25
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Fighting Greaves",
+        "rarity": "Uncommon",
+        "stats": {
+            "haste": 16,
+            "pierce": 28
+        },
+        "type": "Strength Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 150,
+        "strength-stats": [
+            {
+                "level": 140,
+                "name": "Basic Combat",
+                "stats": {
+                "power": 5,
+                "size": 39,
+                "dexterity": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Boxing",
+                "stats": {
+                "range": 15,
+                "size": 39,
+                "resistance": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Cannon Fist",
+                "stats": {
+                "size": 39,
+                "dexterity": 15,
+                "pierce": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Iron Leg",
+                "stats": {
+                "power": 5,
+                "size": 31,
+                "resistance": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sailor Style",
+                "stats": {
+                "power": 5,
+                "range": 15,
+                "size": 39
+                }
+            },
+            {
+                "level": 140,
+                "name": "Thermo Fist",
+                "stats": {
+                "range": -8,
+                "size": 62,
+                "dexterity": 15
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Fighting Handwraps",
+        "rarity": "Uncommon",
+        "stats": {
+            "dexterity": 42
+        },
+        "type": "Strength Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 110,
+        "strength-stats": [
+            {
+                "level": 140,
+                "name": "Basic Combat",
+                "stats": {
+                "power": 18,
+                "dexterity": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Boxing",
+                "stats": {
+                "power": 13,
+                "range": 15,
+                "resistance": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Cannon Fist",
+                "stats": {
+                "power": 13,
+                "dexterity": 15,
+                "haste": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Iron Leg",
+                "stats": {
+                "power": 18,
+                "size": -8,
+                "resistance": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sailor Style",
+                "stats": {
+                "power": 18,
+                "size": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Thermo Fist",
+                "stats": {
+                "power": 13,
+                "size": -8,
+                "dexterity": 23,
+                "haste": 15
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Fighting Headband",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 8
+        },
+        "type": "Strength Accessory"
+    },
+    {
+        "jewels": 2,
+        "level": 140,
+        "strength-stats": [
+            {
+                "level": 140,
+                "name": "Basic Combat",
+                "stats": {
+                "power": 5,
+                "defense": 145,
+                "dexterity": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Boxing",
+                "stats": {
+                "defense": 145,
+                "range": 15,
+                "resistance": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Cannon Fist",
+                "stats": {
+                "defense": 145,
+                "dexterity": 15,
+                "haste": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Iron Leg",
+                "stats": {
+                "power": 5,
+                "defense": 145,
+                "size": -8,
+                "resistance": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sailor Style",
+                "stats": {
+                "power": 5,
+                "defense": 145,
+                "range": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Thermo Fist",
+                "stats": {
+                "defense": 145,
+                "size": -8,
+                "dexterity": 23,
+                "haste": 15
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Fighting Leggings",
+        "rarity": "Uncommon",
+        "stats": {
+            "defense": 145
+        },
+        "type": "Strength Leggings"
+    },
+    {
+        "jewels": 2,
+        "level": 140,
+        "strength-stats": [
+            {
+                "level": 140,
+                "name": "Basic Combat",
+                "stats": {
+                "power": 24,
+                "dexterity": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Boxing",
+                "stats": {
+                "power": 17,
+                "range": 20,
+                "resistance": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Cannon Fist",
+                "stats": {
+                "power": 17,
+                "dexterity": 20,
+                "haste": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Iron Leg",
+                "stats": {
+                "power": 24,
+                "size": -10,
+                "resistance": 31
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sailor Style",
+                "stats": {
+                "power": 24,
+                "range": 20
+                }
+            },
+            {
+                "level": 140,
+                "name": "Thermo Fist",
+                "stats": {
+                "power": 17,
+                "size": -10,
+                "dexterity": 31,
+                "haste": 20
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Fighting Robes",
+        "rarity": "Uncommon",
+        "stats": {
+            "power": 17
+        },
+        "type": "Strength Chestpiece"
+    },
+    {
+        "jewels": 2,
+        "level": 140,
+        "strength-stats": [
+            {
+                "level": 140,
+                "name": "Basic Combat",
+                "stats": {
+                "power": 5,
+                "defense": 145,
+                "dexterity": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Boxing",
+                "stats": {
+                "defense": 145,
+                "range": 15,
+                "resistance": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Cannon Fist",
+                "stats": {
+                "defense": 145,
+                "dexterity": 15,
+                "haste": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Iron Leg",
+                "stats": {
+                "power": 5,
+                "defense": 145,
+                "size": -8,
+                "resistance": 23
+                }
+            },
+            {
+                "level": 140,
+                "name": "Sailor Style",
+                "stats": {
+                "power": 5,
+                "defense": 145,
+                "range": 15
+                }
+            },
+            {
+                "level": 140,
+                "name": "Thermo Fist",
+                "stats": {
+                "defense": 145,
+                "size": -8,
+                "dexterity": 23,
+                "haste": 15
+                }
+            }
+        ],
+        "modifiers": {
+            "all": true
+        },
+        "name": "Fighting Shoulderpads",
+        "rarity": "Uncommon",
+        "stats": {
+            "defense": 145
+        },
+        "type": "Strength Accessory"
+    },
+    {
+        "level": 10,
+        "name": "Strong",
+        "rarity": "Rare",
+        "stats": {
+            "power": 0.5
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Hard",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 4.5
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Accurate",
+        "rarity": "Rare",
+        "stats": {
+            "range": 1.5
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Amplified",
+        "rarity": "Rare",
+        "stats": {
+            "haste": 1.5
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Bursting",
+        "rarity": "Rare",
+        "stats": {
+            "size": 1.5
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Swift",
+        "rarity": "Rare",
+        "stats": {
+            "dexterity": 1.5
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Powerful",
+        "rarity": "Mystic",
+        "stats": {
+            "power": 0.875
+        },
+        "type": "Enchant"
+    },
+    {
+        "image": "../assets/Armored.webp",
+        "level": 10,
+        "name": "Armored",
+        "rarity": "Mystic",
+        "stats": {
+            "defense": 8
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Deadeye",
+        "rarity": "Mystic",
+        "stats": {
+            "range": 2.625
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Enhanced",
+        "rarity": "Mystic",
+        "stats": {
+            "haste": 2.625
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Explosive",
+        "rarity": "Mystic",
+        "stats": {
+            "size": 2.625
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Brisk",
+        "rarity": "Mystic",
+        "stats": {
+            "dexterity": 2.625
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Charged",
+        "rarity": "Mystic",
+        "stats": {
+            "power": 0.609375,
+            "haste": 1.40625
+        },
+        "type": "Enchant"
+    },
+    {
+        "atlantean_essence": false,
+        "level": 10,
+        "name": "Virtuous",
+        "rarity": "Mystic",
+        "stats": {
+            "defense": 4.5,
+            "warding": 1
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Tracking",
+        "rarity": "Mystic",
+        "stats": {
+            "dexterity": 1.40625,
+            "range": 1.40625
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Healing",
+        "rarity": "Mystic",
+        "stats": {
+            "regeneration": 2.625
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Resilient",
+        "rarity": "Mystic",
+        "stats": {
+            "resistance": 2.625
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Piercing",
+        "rarity": "Mystic",
+        "stats": {
+            "pierce": 2.625
+        },
+        "type": "Enchant"
+    },
+    {
+        "level": 10,
+        "name": "Abyssal",
+        "stats": {
+            "defense": 2.2669,
+            "resistance": 1.5715
+        },
+        "type": "Modifier"
+    },
+    {
+        "level": 10,
+        "name": "Archaic",
+        "stats": {
+            "size": 1.5
+        },
+        "type": "Modifier"
+    },
+    {
+        "level": 10,
+        "name": "Atlantean Essence",
+        "stats": {
+            "power": 1,
+            "defense": 9.07,
+            "size": 3,
+            "dexterity": 3,
+            "range": 3,
+            "haste": 3,
+            "insanity": 1
+        },
+        "type": "Modifier"
+    },
+    {
+        "level": 10,
+        "name": "Blasted",
+        "stats": {
+            "power": 0.5
+        },
+        "type": "Modifier"
+    },
+    {
+        "level": 10,
+        "name": "Crystalline",
+        "stats": {
+            "dexterity": 1.5
+        },
+        "type": "Modifier"
+    },
+    {
+        "level": 10,
+        "name": "Drowned",
+        "stats": {
+            "defense": 2.21,
+            "size": 0.75
+        },
+        "type": "Modifier"
+    },
+    {
+        "level": 10,
+        "name": "Frozen",
+        "stats": {
+            "defense": 4.429
+        },
+        "type": "Modifier"
+    },
+    {
+        "level": 10,
+        "name": "Superheated",
+        "stats": {
+            "power": 0.25,
+            "haste": 0.75
+        },
+        "type": "Modifier"
+    },
+    {
+        "level": 10,
+        "name": "Sandy",
+        "stats": {
+            "haste": 1.5
+        },
+        "type": "Modifier"
+    },
+    {
+        "level": 10,
+        "name": "Imbued",
+        "stat_multipliers": {
+            
+        },
+        "stats": {
+            
+        },
+        "type": "Modifier"
+    },
+    {
+        "jewels": 1,
+        "level": 10,
+        "name": "Gilded",
+        "stats": {
+            
+        },
+        "type": "Modifier"
+    },
+    {
+        "level": 170,
+        "name": "Amethyst",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 39
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Diamond",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 39
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Onyx",
+        "rarity": "Rare",
+        "stats": {
+            "defense": 39
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Ruby",
+        "rarity": "Rare",
+        "stats": {
+            "power": 4
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Sunstone",
+        "rarity": "Rare",
+        "stats": {
+            "power": 4
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Zircon",
+        "rarity": "Rare",
+        "stats": {
+            "power": 4
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Sapphire",
+        "rarity": "Rare",
+        "stats": {
+            "dexterity": 13
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Tanzanite",
+        "rarity": "Rare",
+        "stats": {
+            "dexterity": 13
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Emerald",
+        "rarity": "Rare",
+        "stats": {
+            "size": 13
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Peridot",
+        "rarity": "Rare",
+        "stats": {
+            "size": 13
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Aquamarine",
+        "rarity": "Rare",
+        "stats": {
+            "range": 13
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Tourmaline",
+        "rarity": "Rare",
+        "stats": {
+            "range": 13
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Citrine",
+        "rarity": "Rare",
+        "stats": {
+            "haste": 13
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Topaz",
+        "rarity": "Rare",
+        "stats": {
+            "haste": 13
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Lapis Lazuli",
+        "rarity": "Mystic",
+        "stats": {
+            "dexterity": 9,
+            "range": 9
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Larimar",
+        "rarity": "Mystic",
+        "stats": {
+            "dexterity": 9,
+            "haste": 9
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Agate",
+        "rarity": "Mystic",
+        "stats": {
+            "size": 6,
+            "defense": 39
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Malachite",
+        "rarity": "Mystic",
+        "stats": {
+            "power": 4,
+            "size": 6
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Candelaria",
+        "rarity": "Mystic",
+        "stats": {
+            "power": 4,
+            "dexterity": 6
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Morenci",
+        "rarity": "Mystic",
+        "stats": {
+            "power": 4,
+            "range": 6
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Painite",
+        "rarity": "Mystic",
+        "stats": {
+            "drawback": 1,
+            "defense": 188
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Kyanite",
+        "rarity": "Mystic",
+        "stats": {
+            "range": 9,
+            "haste": 9
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Variscite",
+        "rarity": "Mystic",
+        "stats": {
+            "range": 9,
+            "size": 9
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Azurite",
+        "rarity": "Mystic",
+        "stats": {
+            "resistance": 19
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Aventurine",
+        "rarity": "Mystic",
+        "stats": {
+            "regeneration": 19
+        },
+        "type": "Jewel"
+    },
+    {
+        "level": 170,
+        "name": "Fire Opal",
+        "rarity": "Mystic",
+        "stats": {
+            "pierce": 19
+        },
+        "type": "Jewel"
+    },
+    {
+        "armor-stats": {
+            "level": 140,
+            "stats": {
+                "power": 9,
+                "pierce": 42
+            }
+        },
+        "image": "../assets/Acid.webp",
+        "min_level": 1,
+        "name": "Acid",
+        "stats": {
+            "damage": 0.875,
+            "destruction": 0.25,
+            "size": 1.05,
+            "speed": 1
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Ash.webp",
+        "min_level": 1,
+        "name": "Ash",
+        "stats": {
+            "damage": 0.85,
+            "destruction": 0.3,
+            "size": 1.25,
+            "speed": 0.9
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Crystal.webp",
+        "min_level": 1,
+        "name": "Crystal",
+        "stats": {
+            "damage": 0.975,
+            "destruction": 0.725,
+            "size": 1.15,
+            "speed": 0.75
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Earth.webp",
+        "min_level": 1,
+        "name": "Earth",
+        "stats": {
+            "damage": 1,
+            "destruction": 0.75,
+            "size": 1.3,
+            "speed": 0.6
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Explosion.webp",
+        "min_level": 1,
+        "name": "Explosion",
+        "stats": {
+            "damage": 0.925,
+            "destruction": 1.2,
+            "size": 1.3,
+            "speed": 0.8
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Fire.webp",
+        "min_level": 1,
+        "name": "Fire",
+        "stats": {
+            "damage": 0.85,
+            "destruction": 0.8,
+            "size": 1.1,
+            "speed": 1
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Glass.webp",
+        "min_level": 1,
+        "name": "Glass",
+        "stats": {
+            "damage": 0.9,
+            "destruction": 0.3,
+            "size": 1.1,
+            "speed": 1
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Ice.webp",
+        "min_level": 1,
+        "name": "Ice",
+        "stats": {
+            "damage": 0.975,
+            "destruction": 0.6,
+            "size": 1.2,
+            "speed": 0.8
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Light.webp",
+        "min_level": 1,
+        "name": "Light",
+        "stats": {
+            "damage": 0.85,
+            "destruction": 0.5,
+            "size": 1,
+            "speed": 1.6
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Lightning.webp",
+        "min_level": 1,
+        "name": "Lightning",
+        "stats": {
+            "damage": 0.9,
+            "destruction": 1,
+            "size": 1,
+            "speed": 1.5
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Magma.webp",
+        "min_level": 1,
+        "name": "Magma",
+        "stats": {
+            "damage": 0.9,
+            "destruction": 0.9,
+            "size": 1.2,
+            "speed": 0.7
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Metal.webp",
+        "min_level": 1,
+        "name": "Metal",
+        "stats": {
+            "damage": 1.025,
+            "destruction": 1.1,
+            "size": 1.2,
+            "speed": 0.55
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Plasma.webp",
+        "min_level": 1,
+        "name": "Plasma",
+        "stats": {
+            "damage": 0.825,
+            "destruction": 0.9,
+            "size": 1,
+            "speed": 1.3
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Poison.webp",
+        "min_level": 1,
+        "name": "Poison",
+        "stats": {
+            "damage": 0.75,
+            "destruction": 0.2,
+            "size": 1.15,
+            "speed": 1
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Sand.webp",
+        "min_level": 1,
+        "name": "Sand",
+        "stats": {
+            "damage": 0.975,
+            "destruction": 0.5,
+            "size": 1.1,
+            "speed": 0.95
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Shadow.webp",
+        "min_level": 1,
+        "name": "Shadow",
+        "stats": {
+            "damage": 0.95,
+            "destruction": 0.75,
+            "size": 1.1,
+            "speed": 1.2
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Snow.webp",
+        "min_level": 1,
+        "name": "Snow",
+        "stats": {
+            "damage": 0.925,
+            "destruction": 0.4,
+            "size": 1.05,
+            "speed": 1.05
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Water.webp",
+        "min_level": 1,
+        "name": "Water",
+        "stats": {
+            "damage": 0.925,
+            "destruction": 0.2,
+            "size": 1.2,
+            "speed": 1
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Wind.webp",
+        "min_level": 1,
+        "name": "Wind",
+        "stats": {
+            "damage": 0.825,
+            "destruction": 0.5,
+            "size": 1.2,
+            "speed": 1.4
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Wood.webp",
+        "min_level": 1,
+        "name": "Wood",
+        "stats": {
+            "damage": 0.95,
+            "destruction": 0.7,
+            "size": 1.2,
+            "speed": 1
+        },
+        "type": "Magic"
+    },
+    {
+        "image": "../assets/Basic_Combat.webp",
+        "min_level": 1,
+        "name": "Basic Combat",
+        "stats": {
+            "damage": 0.925,
+            "size": 1,
+            "speed": 1
+        },
+        "type": "Fighting Style"
+    },
+    {
+        "image": "../assets/Boxing.webp",
+        "min_level": 1,
+        "name": "Boxing",
+        "stats": {
+            "damage": 0.775,
+            "size": 1,
+            "speed": 1.2
+        },
+        "type": "Fighting Style"
+    },
+    {
+        "image": "../assets/Cannon_Fist.webp",
+        "min_level": 1,
+        "name": "Cannon Fist",
+        "stats": {
+            "damage": 0.7,
+            "size": 1,
+            "speed": 1
+        },
+        "type": "Fighting Style"
+    },
+    {
+        "image": "../assets/Iron_Leg.webp",
+        "min_level": 1,
+        "name": "Iron Leg",
+        "stats": {
+            "damage": 0.95,
+            "size": 1.1,
+            "speed": 0.75
+        },
+        "type": "Fighting Style"
+    },
+    {
+        "image": "../assets/Sailor_Style.webp",
+        "min_level": 1,
+        "name": "Sailor Style",
+        "stats": {
+            "damage": 0.775,
+            "size": 0.8,
+            "speed": 1
+        },
+        "type": "Fighting Style"
+    },
+    {
+        "image": "../assets/Thermo_Fist.webp",
+        "min_level": 1,
+        "name": "Thermo Fist",
+        "stats": {
+            "damage": 0.75,
+            "size": 0.8,
+            "speed": 1
+        },
+        "type": "Fighting Style"
+    },
+    {
+        "image": "../assets/Powder_Fist.webp",
+        "min_level": 1,
+        "name": "Powder Fist",
+        "stats": {
+            "damage": 0.7,
+            "size": 1.05,
+            "speed": 0.9
+        },
+        "type": "Fighting Style"
+    },
+    {
+        "image": "../assets/Vanishing_Style.webp",
+        "min_level": 1,
+        "name": "Vanishing Style",
+        "stats": {
+            "damage": 0.85,
+            "size": 1,
+            "speed": 1.1
+        },
+        "type": "Fighting Style"
+    }
+]
